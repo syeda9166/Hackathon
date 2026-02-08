@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+.body{
+    /* <link rel="stylesheet" href="./fonts/stylesheet.css"> */
+}
 .nav-button{
     background: linear-gradient(to right, #4776E6, #8E54E9);
     color: white;
@@ -23,3 +26,21 @@
     padding: 10px 80%;
     border: none;
 }
+.para{
+    color: #7B7E86;
+}
+.h1-hero{
+
+  
+font-weight: 700;
+font-style: Bold;
+font-size: 52px;
+leading-trim: NONE;
+line-height: 62px;
+letter-spacing: 0%;
+
+}
+.color{
+    background: #F3F6FD;
+}
+
