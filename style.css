@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-button{
+    background: linear-gradient(to right, #4776E6, #8E54E9);
+    color: white;
+    border: none;
+    margin-left: 7px;
+    padding: 10px 30px;
+    border-radius: 50px;
+}
+.text{
+    background: linear-gradient(to right, #DA22FF, #9733EE);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}   
+.purple{
+    background: #5E5CE6;
+    color: white;
+    border-radius: 30px;
+    padding: 10px 80%;
+    border: none;
+}
