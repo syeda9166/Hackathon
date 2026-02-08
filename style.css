@@ -20,7 +20,7 @@
     -webkit-text-fill-color: transparent;
 }   
 .purple{
-    background: #5E5CE6;
+    background: #5E5CE6 !important;
     color: white;
     border-radius: 30px;
     padding: 10px 80%;
